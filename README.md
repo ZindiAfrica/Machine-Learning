@@ -61,7 +61,18 @@ Agriculture, Finance, Astronomy, Banking, Telecommunication, Adaptive Website, M
   Zindi has hosted some challenges based on Machine-Learning Solutions.
 
 
-## Regression analysis
-1.[Traffic Jam:Predicting People's Movement into Nairobi]()
+## Classification analysis
 
-2.
+1. [Standard Bank Tech Impact Challenge: Xente Credit Scoring Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Classification%20Analysis%20Challenges/Standard%20Bank%20Tech%20Impact%20Xente%20Credit%20Score%20Challenge)
+
+2. [Xente Fraud Detection Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Classification%20Analysis%20Challenges/Xente%20Fraud%20Detection)
+
+## Regression analysis
+
+1.[Sendy Logistics Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Regression%20Analysis%20Challenges/Sendy%20Logistics%20Challenge)
+
+2.[Traffic Jam:Predicting People's Movement into Nairobi](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Regression%20Analysis%20Challenges/Traffic%20Jam%20Predicting%20People's%20Movement%20into%20Nairobi)
+
+3.[Womxn in Big Data South Africa: Female-Headed Households in South Africa](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Regression%20Analysis%20Challenges/Womxn%20in%20Big%20Data%20South%20Africa%20Female-Headed%20HouseHolds)
+
+
