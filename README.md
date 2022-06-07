@@ -63,9 +63,13 @@ Agriculture, Finance, Astronomy, Banking, Telecommunication, Adaptive Website, M
 
 ## Classification analysis
 
-1. [Standard Bank Tech Impact Challenge: Xente Credit Scoring Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Classification%20Analysis%20Challenges/Standard%20Bank%20Tech%20Impact%20Xente%20Credit%20Score%20Challenge)
+1. [Busara Mental Health Prediction Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Classification%20Analysis%20Challenges/Busara%20Mental%20Health%20Prediction%20Challenge)
 
-2. [Xente Fraud Detection Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Classification%20Analysis%20Challenges/Xente%20Fraud%20Detection)
+2. [Mobile Money and Financial Inclusion in Tanzania Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Classification%20Analysis%20Challenges/Mobile%20Money%20and%20Financial%20Inclusion%20Tanzania%20Challenge)
+
+3. [Standard Bank Tech Impact Challenge: Xente Credit Scoring Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Classification%20Analysis%20Challenges/Standard%20Bank%20Tech%20Impact%20Xente%20Credit%20Score%20Challenge)
+
+4. [Xente Fraud Detection Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Classification%20Analysis%20Challenges/Xente%20Fraud%20Detection)
 
 ## Regression analysis
 
