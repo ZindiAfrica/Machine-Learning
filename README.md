@@ -65,18 +65,28 @@ Agriculture, Finance, Astronomy, Banking, Telecommunication, Adaptive Website, M
 
 1. [Busara Mental Health Prediction Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Classification%20Analysis%20Challenges/Busara%20Mental%20Health%20Prediction%20Challenge)
 
-2. [Mobile Money and Financial Inclusion in Tanzania Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Classification%20Analysis%20Challenges/Mobile%20Money%20and%20Financial%20Inclusion%20Tanzania%20Challenge)
+2. [Gender-Based Violence Tweet Classification Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Classification%20Analysis%20Challenges/Gender-Based%20Violence%20Tweet%20Classification%20Challenge)
 
-3. [Standard Bank Tech Impact Challenge: Xente Credit Scoring Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Classification%20Analysis%20Challenges/Standard%20Bank%20Tech%20Impact%20Xente%20Credit%20Score%20Challenge)
+3. [Mobile Money and Financial Inclusion in Tanzania Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Classification%20Analysis%20Challenges/Mobile%20Money%20and%20Financial%20Inclusion%20Tanzania%20Challenge)
 
-4. [Xente Fraud Detection Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Classification%20Analysis%20Challenges/Xente%20Fraud%20Detection)
+4. [Standard Bank Tech Impact Challenge: Xente Credit Scoring Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Classification%20Analysis%20Challenges/Standard%20Bank%20Tech%20Impact%20Xente%20Credit%20Score%20Challenge)
+
+5. [Xente Fraud Detection Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Classification%20Analysis%20Challenges/Xente%20Fraud%20Detection)
+
+6. [Zindi User Behaviour Birthday Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Classification%20Analysis%20Challenges/Zindi%20User%20Behaviour%20Birthday%20Challenge)
 
 ## Regression analysis
 
-1.[Sendy Logistics Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Regression%20Analysis%20Challenges/Sendy%20Logistics%20Challenge)
+1. [Cryptocurrency Closing Price Prediction](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Regression%20Analysis%20Challenges/Cryptocurrency%20Closing%20Price%20Prediction)
 
-2.[Traffic Jam:Predicting People's Movement into Nairobi](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Regression%20Analysis%20Challenges/Traffic%20Jam%20Predicting%20People's%20Movement%20into%20Nairobi)
+2. [Economic Well-being Prediction Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Regression%20Analysis%20Challenges/Economic%20Well-being%20Prediction%20Challenge)
 
-3.[Womxn in Big Data South Africa: Female-Headed Households in South Africa](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Regression%20Analysis%20Challenges/Womxn%20in%20Big%20Data%20South%20Africa%20Female-Headed%20HouseHolds)
+3. [Silicon Valley 21st Century Education Hackaton](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Regression%20Analysis%20Challenges/Silicon%20Valley%2021st%20Century%20Education%20Hackathon)
+
+4. [Traffic Jam:Predicting People's Movement into Nairobi](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Regression%20Analysis%20Challenges/Traffic%20Jam%20Predicting%20People's%20Movement%20into%20Nairobi)
+
+5. [Urban Air Pollution Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Regression%20Analysis%20Challenges/Urban%20Air%20Pollution%20Challenge)
+
+6. [Womxn in Big Data South Africa: Female-Headed Households in South Africa](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Regression%20Analysis%20Challenges/Womxn%20in%20Big%20Data%20South%20Africa%20Female-Headed%20HouseHolds)
 
 
