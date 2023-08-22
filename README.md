@@ -75,6 +75,10 @@ Agriculture, Finance, Astronomy, Banking, Telecommunication, Adaptive Website, M
 
 6. [Zindi User Behaviour Birthday Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Classification%20Analysis%20Challenges/Zindi%20User%20Behaviour%20Birthday%20Challenge)
 
+7. [Laduma Analytics Football League Winners Prediction Challenge](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Classification%20Analysis%20Challenges/Laduma%20Analytics%20Football%20League%20Winners%20Prediction%20Challenge)
+
+8. [Laduma Analytics Football League Winners Prediction Challengeby #ZindiWeekendz](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Classification%20Analysis%20Challenges/Laduma%20Analytics%20Football%20League%20Winners%20Prediction%20Challengeby%20%23ZindiWeekendz)
+
 ## Regression analysis
 
 1. [Cryptocurrency Closing Price Prediction](https://github.com/ZindiAfrica/Machine-Learning/tree/main/Regression%20Analysis%20Challenges/Cryptocurrency%20Closing%20Price%20Prediction)
