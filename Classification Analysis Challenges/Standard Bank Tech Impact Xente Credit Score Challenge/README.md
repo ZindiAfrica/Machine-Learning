@@ -82,3 +82,16 @@ The resulting models and solutions will help Xente refine their credit decision 
 For Xente, this may result in improved profitability and financial sustainability.
 
 For Xente’s cliente, increased creditworthiness would enhance their access to credit and contribute to an improved livelihood.
+
+
+
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
